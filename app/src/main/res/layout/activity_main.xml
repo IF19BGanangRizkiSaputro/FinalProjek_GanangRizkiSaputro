@@ -12,9 +12,9 @@
     android:orientation="vertical">
     <ImageView
         android:layout_width="100dp"
-       android:src="@mipmap/mesinkasir"
         android:layout_gravity="center"
         android:paddingBottom="100dp"
+        android:src="@mipmap/ic_launcher"
         android:paddingTop="100dp"
         android:layout_height="300dp"/>
     <TextView
