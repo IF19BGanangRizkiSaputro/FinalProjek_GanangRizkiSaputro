@@ -97,12 +97,17 @@
         <ImageView
             android:layout_width="50dp"
             android:src="@drawable/gmail"
+            android:layout_gravity="center"
+            android:onClick="userGmail"
             android:layout_height="50dp"/>
-        <TextView
-            android:layout_marginTop="15sp"
-            android:layout_width="40dp"
-            android:text="gmail"
-            android:layout_height="match_parent"/>
+
+        <ImageView
+            android:layout_width="50dp"
+            android:src="@drawable/gogle"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="80dp"
+            android:onClick="usergoogle"
+            android:layout_height="50dp"/>
 
     </LinearLayout>
 
