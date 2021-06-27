@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Aplikasi Buku warung</string>
     <string name="selamat_datang">SELAMAT DATANG</string>
+    <string name="masuk">Masuk</string>
 </resources>
