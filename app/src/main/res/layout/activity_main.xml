@@ -108,6 +108,10 @@
             android:layout_marginLeft="80dp"
             android:onClick="usergoogle"
             android:layout_height="50dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:text=""
+            android:layout_height="match_parent"/>
 
     </LinearLayout>
 
