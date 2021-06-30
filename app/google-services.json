@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252405023205",
+    "project_id": "aplikasi-buku-warung",
+    "storage_bucket": "aplikasi-buku-warung.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252405023205:android:a7adbc685706947e7cef0c",
+        "android_client_info": {
+          "package_name": "com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252405023205-7sp49vre5t6kvqt50tggiupjv14sq356.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRyPhRZYN5ZoOCN5pc4Y-kl7FzcS5ZltU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252405023205-7sp49vre5t6kvqt50tggiupjv14sq356.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
