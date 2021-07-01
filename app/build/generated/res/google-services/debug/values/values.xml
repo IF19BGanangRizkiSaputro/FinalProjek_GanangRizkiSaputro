@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">252405023205-7sp49vre5t6kvqt50tggiupjv14sq356.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">252405023205</string>
+    <string name="google_api_key" translatable="false">AIzaSyCRyPhRZYN5ZoOCN5pc4Y-kl7FzcS5ZltU</string>
+    <string name="google_app_id" translatable="false">1:252405023205:android:a7adbc685706947e7cef0c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCRyPhRZYN5ZoOCN5pc4Y-kl7FzcS5ZltU</string>
+    <string name="google_storage_bucket" translatable="false">aplikasi-buku-warung.appspot.com</string>
+    <string name="project_id" translatable="false">aplikasi-buku-warung</string>
+</resources>

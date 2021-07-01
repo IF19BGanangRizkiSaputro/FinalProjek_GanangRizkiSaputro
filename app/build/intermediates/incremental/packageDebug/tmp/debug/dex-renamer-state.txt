@@ -1,0 +1,4 @@
+#Thu Jul 01 13:58:56 ICT 2021
+base.0=D\:\\Final Projek Buku warung\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

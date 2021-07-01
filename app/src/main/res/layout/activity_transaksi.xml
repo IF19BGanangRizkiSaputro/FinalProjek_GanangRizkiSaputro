@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/awan2"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".Transaksi">
+
+    <TextView
+        android:id="@+id/tvnamabarang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NAMA BARANG"
+        android:textStyle="bold" />
+
+
+    <EditText
+        android:id="@+id/etnamabarang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tulis Nama Barang" />
+
+    <TextView
+        android:id="@+id/tvjmlhbarangdibeli"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="JUMLAH BARANG DIBELI"
+        android:textStyle="bold" />
+
+
+    <EditText
+        android:id="@+id/etjumlah"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tulis jumlah barang dibeli" />
+
+    <TextView
+        android:id="@+id/tvdaftarharga"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="DAFTAR HARGA"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/etdaftarharga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tulis jumlah barang dibeli" />
+
+    <Button
+        android:id="@+id/bttotal"
+        android:layout_width="103dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="TOTAL"
+        android:textSize="15dp"
+        app:backgroundTint="#2196F3" />
+
+    <TextView
+        android:id="@+id/tv0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="0" />
+
+    <TextView
+        android:id="@+id/tvbayar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bayar"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/etbayar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Masukan jumlah bayar" />
+
+    <Button
+        android:id="@+id/bthasil"
+        android:layout_width="105dp"
+        android:layout_height="wrap_content"
+        android:text="HASIL"
+        android:textSize="15dp"
+        app:backgroundTint="#2196F3" />
+
+    <TextView
+        android:id="@+id/tvkembalian"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="kembalian"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btsave"
+        android:layout_width="wrap_content"
+        android:layout_height="38dp"
+        android:text="SAVE"
+        android:textSize="15dp"
+        app:backgroundTint="#2196F3" />
+
+</LinearLayout>

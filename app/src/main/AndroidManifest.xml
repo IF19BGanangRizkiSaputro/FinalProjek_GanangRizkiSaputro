@@ -9,8 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AplikasiBukuWarung">
-        <activity android:name=".dafarhargabarang_MainActivity"></activity>
-        <activity android:name=".menu_transaksi"></activity>
+        <activity android:name=".RegisterActivity"></activity>
+        <activity android:name=".HitungKeuntungan" />
+        <activity android:name=".TambahHutang" />
+        <activity android:name=".Transaksi" />
+        <activity android:name=".DaftarHargaBarang" />
+        <activity android:name=".LoginActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
