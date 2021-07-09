@@ -9,8 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AplikasiBukuWarung">
-        <activity android:name=".RegisterActivity"></activity>
-        <activity android:name=".HitungKeuntungan" />
+        <activity android:name=".HitungKeuntungan"></activity>
+        <activity android:name=".RegisterActivity" />
         <activity android:name=".TambahHutang" />
         <activity android:name=".Transaksi" />
         <activity android:name=".DaftarHargaBarang" />
