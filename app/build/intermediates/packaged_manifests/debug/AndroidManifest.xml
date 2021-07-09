@@ -23,8 +23,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.AplikasiBukuWarung" >
-        <activity android:name="com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.RegisterActivity" />
         <activity android:name="com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.HitungKeuntungan" />
+        <activity android:name="com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.RegisterActivity" />
         <activity android:name="com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.TambahHutang" />
         <activity android:name="com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.Transaksi" />
         <activity android:name="com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.DaftarHargaBarang" />
