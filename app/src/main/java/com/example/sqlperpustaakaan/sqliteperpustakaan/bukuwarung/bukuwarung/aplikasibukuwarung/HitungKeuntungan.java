@@ -2,6 +2,7 @@ package com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.ap
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -31,6 +32,7 @@ public class HitungKeuntungan extends AppCompatActivity {
                     Double b = Double.parseDouble(bil2.getText().toString());
                     Double result = a - b;
                     hasil.setText(Double.toString(result));
+
                 }
             });
 

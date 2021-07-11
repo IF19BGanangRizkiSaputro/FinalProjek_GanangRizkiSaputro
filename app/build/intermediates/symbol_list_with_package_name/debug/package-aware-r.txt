@@ -1865,6 +1865,7 @@ id button1
 id button2
 id button3
 id button4
+id button5
 id buttonPanel
 id cache_measures
 id cancel_button
@@ -2185,8 +2186,15 @@ id textStart
 id textTop
 id textView
 id textView1
+id textView10
 id textView2
 id textView3
+id textView4
+id textView5
+id textView6
+id textView7
+id textView8
+id textView9
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -2221,6 +2229,7 @@ id tvnamabarang
 id unchecked
 id uniform
 id unlabeled
+id untung
 id up
 id useLogo
 id view_offset_helper
@@ -2296,8 +2305,10 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_credit
 layout activity_daftar_harga_barang
 layout activity_hitung_keuntungan
+layout activity_hitungkeuntungan2
 layout activity_login
 layout activity_main
 layout activity_register

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:2:1-29:12
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\9c690320e80a4839b6727fe52ecf762c\material-1.3.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\8f1c30315aa2dc9bdcaaaf06c373f1f8\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\5950ad72237f9138c3f156b9e551ac3f\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
@@ -68,25 +68,25 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Acer\.gradle\cac
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\b8f37ca8e856b6b5c10299b07c1782ef\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\31792490df47eafaec21a9ebfdf85e6d\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\cc5ec88546b4d1d9a0d12d08d43a6bfb\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:2:1-29:12
 	package
 		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:3:5-103
 		INJECTED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:2:1-29:12
 		INJECTED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:2:1-29:12
 		INJECTED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:5:5-25:19
+ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:5:5-27:19
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\9c690320e80a4839b6727fe52ecf762c\material-1.3.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\9c690320e80a4839b6727fe52ecf762c\material-1.3.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Acer\.gradle\caches\transforms-2\files-2.1\8f1c30315aa2dc9bdcaaaf06c373f1f8\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
@@ -147,44 +147,52 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ac
 		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:11:9-56
+activity#com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.Hitungkeuntungan2
+ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:12:9-64
+	android:name
+		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:12:19-52
+activity#com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.credit
+ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:13:19-41
 activity#com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.HitungKeuntungan
-ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:12:9-63
+ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:14:9-54
 	android:name
-		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:12:19-51
+		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:14:19-51
 activity#com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.RegisterActivity
-ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:13:9-54
+ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:15:9-54
 	android:name
-		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:13:19-51
+		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:15:19-51
 activity#com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.TambahHutang
-ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:14:9-50
+ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:16:9-50
 	android:name
-		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:14:19-47
+		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:16:19-47
 activity#com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.Transaksi
-ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:15:9-47
+ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:17:9-47
 	android:name
-		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:15:19-44
+		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:17:19-44
 activity#com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.DaftarHargaBarang
-ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:16:9-55
+ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:18:9-55
 	android:name
-		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:16:19-52
+		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:18:19-52
 activity#com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.LoginActivity
-ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:17:9-51
+ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:19:9-51
 	android:name
-		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:17:19-48
+		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:19:19-48
 activity#com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.MainActivity
-ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:18:9-24:20
+ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:20:9-26:20
 	android:name
-		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:18:19-47
+		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:20:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:19:13-23:29
+ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml:24:27-74
 uses-sdk
 INJECTED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Acer\FinalProjek_GanangRizkiSaputro5\app\src\main\AndroidManifest.xml
