@@ -11,7 +11,7 @@ import android.widget.TextView;
 public class Transaksi extends AppCompatActivity {
 
     EditText etnamabarang,etjumlah,etdaftarharga,etbayar;
-    Button bttotal,bthasil,btsave;
+    Button bttotal,bthasil,btreset;
     TextView tv0,tvkembalian;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,7 +24,7 @@ public class Transaksi extends AppCompatActivity {
 
         bttotal=(Button) findViewById(R.id.bttotal);
         bthasil=(Button) findViewById(R.id.bthasil);
-        btsave=(Button) findViewById(R.id.btsave);
+        btreset=(Button) findViewById(R.id.btreset);
 
         tv0 =(TextView) findViewById(R.id.tv0);
         tvkembalian=(TextView) findViewById(R.id.tvkembalian);
@@ -52,7 +52,7 @@ public class Transaksi extends AppCompatActivity {
                 tvkembalian.setText(hasil1);
             }
         });
-        btsave.setOnClickListener(new View.OnClickListener() {
+        btreset.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 etnamabarang.setText("");
