@@ -1,4 +1,4 @@
-#Sun Jul 11 08:51:01 ICT 2021
-base.0=C\:\\Users\\Acer\\FinalProjek_GanangRizkiSaputro5\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Mon Jul 12 20:39:55 ICT 2021
+base.0=D\:\\Materi Kuliah Semester 4(2020-2021)\\FinalProjek_GanangRizkiSaputro3\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

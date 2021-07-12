@@ -2,6 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@drawable/wal2">
 
     <TextView
@@ -71,7 +72,7 @@
         android:text="Bagas A.W.S" />
 
     <TextView
-        android:id="@+id/textView9"
+        android:id="@+id/textView11"
         android:layout_width="342dp"
         android:layout_height="34dp"
         android:layout_alignParentStart="true"
@@ -80,7 +81,49 @@
         android:layout_marginStart="26dp"
         android:layout_marginTop="312dp"
         android:autoLink="email"
-        android:text="andrianwibowo0@gmail.com"
+        android:text="@string/andrianwibowo0_gmail_com"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="342dp"
+        android:layout_height="34dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="359dp"
+        android:layout_marginEnd="39dp"
+        android:autoLink="email"
+        android:text="@string/ganangsaputro38_gmail_com"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="342dp"
+        android:layout_height="34dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="31dp"
+        android:layout_marginTop="402dp"
+        android:layout_marginEnd="38dp"
+        android:autoLink="email"
+        android:text="@string/strprakoso_gmail_com"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="342dp"
+        android:layout_height="34dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="443dp"
+        android:layout_marginEnd="41dp"
+        android:autoLink="email"
+        android:text="@string/sahasrestufaozi78_gmail_com"
         android:textSize="20dp" />
 
     <TextView
