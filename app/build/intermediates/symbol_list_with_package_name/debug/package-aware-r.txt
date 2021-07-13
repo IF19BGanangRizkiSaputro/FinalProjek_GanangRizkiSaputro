@@ -951,6 +951,7 @@ attr yearTodayStyle
 bool abc_action_bar_embed_tabs
 bool abc_config_actionMenuItemAllCaps
 bool mtrl_btn_textappearance_all_caps
+color KUNING
 color abc_background_cache_hint_selector_material_dark
 color abc_background_cache_hint_selector_material_light
 color abc_btn_colored_borderless_text_material
@@ -1666,6 +1667,10 @@ drawable avd_hide_password
 drawable avd_show_password
 drawable awan
 drawable awan2
+drawable bag1
+drawable bag2
+drawable bag3
+drawable bag4
 drawable bisa_lah
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
@@ -1700,6 +1705,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable detail_lam_nghe_tu_do
 drawable gmail
 drawable gogle
 drawable googleg_disabled_color_18
@@ -1750,6 +1756,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable pot4
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -1859,9 +1866,8 @@ id btn_loginRegist
 id btn_logout
 id btn_register
 id btn_registerRegist
-id btsave
+id btreset
 id bttotal
-id button1
 id button2
 id button3
 id button4
@@ -1942,16 +1948,7 @@ id enterAlways
 id enterAlwaysCollapsed
 id etbayar
 id etdaftarharga
-id etharga
-id etharga1
-id etharga2
 id etjumlah
-id etkode
-id etkode1
-id etkode2
-id etnama
-id etnama1
-id etnama2
 id etnamabarang
 id exitUntilCollapsed
 id expand_activities_button
@@ -2185,14 +2182,13 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textView
-id textView1
 id textView10
 id textView11
 id textView12
 id textView13
 id textView14
+id textView15
 id textView2
-id textView3
 id textView4
 id textView5
 id textView6
@@ -2308,7 +2304,6 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_credit
-layout activity_daftar_harga_barang
 layout activity_hitung_keuntungan
 layout activity_login
 layout activity_main
@@ -2460,6 +2455,7 @@ string common_google_play_services_wear_update_text
 string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
+string daniiyan439_gmail_com
 string default_web_client_id
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
@@ -2532,6 +2528,7 @@ string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string project_id
+string reset
 string sahasrestufaozi78_gmail_com
 string search_menu_title
 string selamat_datang

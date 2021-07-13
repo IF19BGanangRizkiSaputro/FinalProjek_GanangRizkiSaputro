@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     DatabaseHelper db;
-    Button button1, button2, button3, button4,button5, logout;
+    Button button2, button3, button4,button5, logout;
 
 
     @Override
@@ -18,19 +18,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        button1 = (Button) findViewById(R.id.button1);
         button2 = (Button) findViewById(R.id.button2);
         button3 = (Button) findViewById(R.id.button3);
         button4 = (Button) findViewById(R.id.button4);
         button5 = (Button) findViewById(R.id.button5);
 
-        button1.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this,DaftarHargaBarang.class);
-                startActivity(intent);
-            }
-        });
 
         button2.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -79,7 +71,6 @@ public class MainActivity extends AppCompatActivity {
             startActivity(loginIntent);
             finish();
         }
-
         // logout
         logout.setOnClickListener(new View.OnClickListener() {
             @Override

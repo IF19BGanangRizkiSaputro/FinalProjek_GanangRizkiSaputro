@@ -22,8 +22,6 @@ com/example/sqlperpustaakaan/sqliteperpustakaan/bukuwarung/bukuwarung/aplikasibu
  com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.RegisterActivity
  com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.RegisterActivity$1
  com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.RegisterActivity$2
-com/example/sqlperpustaakaan/sqliteperpustakaan/bukuwarung/bukuwarung/aplikasibukuwarung/DaftarHargaBarang.java
- com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.DaftarHargaBarang
 com/example/sqlperpustaakaan/sqliteperpustakaan/bukuwarung/bukuwarung/aplikasibukuwarung/HitungKeuntungan.java
  com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.HitungKeuntungan
  com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.HitungKeuntungan$1
@@ -34,4 +32,3 @@ com/example/sqlperpustaakaan/sqliteperpustakaan/bukuwarung/bukuwarung/aplikasibu
  com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.MainActivity$3
  com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.MainActivity$4
  com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.MainActivity$5
- com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.MainActivity$6

@@ -15,7 +15,6 @@
         <activity android:name=".RegisterActivity" />
         <activity android:name=".TambahHutang" />
         <activity android:name=".Transaksi" />
-        <activity android:name=".DaftarHargaBarang" />
         <activity android:name=".LoginActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>

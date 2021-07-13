@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 public class credit extends AppCompatActivity {
-        TextView textView4, textView5, textView6, textView7, textView8,textView12,textView13;
+        TextView textView4, textView5, textView6, textView7, textView8,textView12,textView13,textView15;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,5 +19,6 @@ public class credit extends AppCompatActivity {
         textView8 = (TextView) findViewById(R.id.textView8);
         textView12=(TextView)findViewById(R.id.textView12);
         textView13=(TextView)findViewById(R.id.textView13);
+        textView15=(TextView)findViewById(R.id.textView15);
     }
 }

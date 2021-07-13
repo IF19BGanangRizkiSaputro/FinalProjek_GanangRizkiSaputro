@@ -28,7 +28,6 @@
         <activity android:name="com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.RegisterActivity" />
         <activity android:name="com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.TambahHutang" />
         <activity android:name="com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.Transaksi" />
-        <activity android:name="com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.DaftarHargaBarang" />
         <activity android:name="com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.LoginActivity" />
         <activity android:name="com.example.sqlperpustaakaan.sqliteperpustakaan.bukuwarung.bukuwarung.aplikasibukuwarung.MainActivity" >
             <intent-filter>
